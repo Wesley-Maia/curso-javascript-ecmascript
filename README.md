@@ -12,7 +12,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Módulo B - Conhecendo o JavaScript
 
-- [ ] #05: _Curso JavaScript- # Variáveis e Tipos Primitivo_
+- [x] #05: _Curso JavaScript- # Variáveis e Tipos Primitivo_
 - [ ] #06: _Curso JavaScript- # Tratamento de dados_
 - [ ] #07: _Curso JavaScript- # Operadores (Parte1)_
 - [ ] #08: _Curso JavaScript- # Operadores (Parte2)_
