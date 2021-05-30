@@ -6,16 +6,16 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Módulo A - Conhecendo o JavaScript
 
 - [x] #01: _Curso JavaScript- # O que o JavaScript é capaz de fazer?_
-- [ ] #02: _Curso JavaScript- # JavaScript: como chegamos até aqui?_
-- [ ] #03: _Curso JavaScript- # JavaScript: Dando os primeiros passos_
-- [ ] #04: _Curso JavaScript- # Criando o seu primeiro script_
+- [x] #02: _Curso JavaScript- # JavaScript: como chegamos até aqui?_
+- [x] #03: _Curso JavaScript- # JavaScript: Dando os primeiros passos_
+- [x] #04: _Curso JavaScript- # Criando o seu primeiro script_
 
 ##### Módulo B - Conhecendo o JavaScript
 
-- [ ] #05:
-- [ ] #06:
-- [ ] #07:
-- [ ] #08:
+- [ ] #05: _Curso JavaScript- # Variáveis e Tipos Primitivo_
+- [ ] #06: _Curso JavaScript- # Tratamento de dados_
+- [ ] #07: _Curso JavaScript- # Operadores (Parte1)_
+- [ ] #08: _Curso JavaScript- # Operadores (Parte2)_
 
 ##### Módulo C - Entendendo o DOM
 
@@ -31,3 +31,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [ ] #13:
 - [ ] #14:
+
+##### Módulo F - Repetições em  JavaScript
+
+- [ ] #15:
+- [ ] #16:
+- [ ] #17:
