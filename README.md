@@ -13,19 +13,19 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Módulo B - Conhecendo o JavaScript
 
 - [x] #05: _Curso JavaScript- # Variáveis e Tipos Primitivo_
-- [ ] #06: _Curso JavaScript- # Tratamento de dados_
-- [ ] #07: _Curso JavaScript- # Operadores (Parte1)_
-- [ ] #08: _Curso JavaScript- # Operadores (Parte2)_
+- [x] #06: _Curso JavaScript- # Tratamento de dados_
+- [x] #07: _Curso JavaScript- # Operadores (Parte1)_
+- [x] #08: _Curso JavaScript- # Operadores (Parte2)_
 
 ##### Módulo C - Entendendo o DOM
 
-- [ ] #09:
-- [ ] #10:
+- [x] #09: _Curso JavaScript- # Introdução ao DOM_
+- [x] #10: _Curso JavaScript- # Eventos DOM_
 
 ##### Módulo D - Condições em JavaScript
 
-- [ ] #11:
-- [ ] #12:
+- [ ] #11: _Curso JavaScript- # Condições (Parte1)_
+- [ ] #12: _Curso JavaScript- # Condições (Parte2)_
 
 ##### Módulo E - Repetições em  JavaScript
 
